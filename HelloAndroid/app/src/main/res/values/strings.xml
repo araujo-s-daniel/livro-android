@@ -4,4 +4,5 @@
     <string name="titulo">Informe seu nome</string>
     <string name="surpreenda_me">Surpreenda-me</string>
     <string name="saudacao">Olá</string>
+    <string name="nome_usuario_nao_informado">O nome do usuário não foi informado</string>
 </resources>
